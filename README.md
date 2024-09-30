@@ -17,6 +17,9 @@ An innovative robot designed to tackle fires in hazardous areas, minimizing risk
 3. **Extinguish Fire** by activating the water pump.
 4. **Surveillance** with camera module (optional).
 
+## 🖼 Visuals
+![Smart Fire-Fighter Robot](robot.jpg)
+
 ## 🏢 Applications
 - **Firefighting in confined spaces**: Useful in areas where human access is limited or risky.
 - **Industrial and home use**: Can be deployed in homes, labs, offices, or industrial settings to detect and extinguish fires.
@@ -31,11 +34,12 @@ An innovative robot designed to tackle fires in hazardous areas, minimizing risk
 The **Smart Fire-Fighter Robot** has the potential to save lives and property by reducing the risks associated with fire emergencies. With further development, this prototype can be adapted for real-world use and become a vital tool for firefighters globally.
 
 ## 👥 Team Members
-- **Minhazul Islam** - Dept. of ETE, RUET
+- **Md. Minhazul Islam** - Dept. of ETE, RUET
 - **Sk Abdul Kaium** - Dept. of ETE, RUET
 - **Farzana Akter** - Lecturer, Dept. of ETE, RUET
 
 
 ## 📂 Full Presentation
 Check out the complete project presentation [here](https://github.com/Miinhaz/Smart-Fire-Fighter-Robot/blob/main/CSE%20FEST%202K22.pptx).
+
 
